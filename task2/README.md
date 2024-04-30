@@ -1,3 +1,7 @@
+## Ссылка на модель
+
+https://drive.google.com/file/d/11W0j8KFIl-TSeUSJMI2nOJpZO4G3hZme/view?usp=sharing
+
 # Задание 2: распознавание номеров автомобилей
 
 ## Описание
